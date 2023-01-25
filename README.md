@@ -7,3 +7,6 @@
 
 
 #### Music classification 결과를 XGboost가 아닌 Keras 또는 pytorch를 이용하여 MLP 모델 생성하기.
+
+
+#### Renew : 8) Build MPL models (Keras)
